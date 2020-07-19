@@ -1,0 +1,7 @@
+MeshAndRun Start 0 
+CreateMesh Start 0 CB 0m 0m 8
+CreateMesh End 0.033 
+TransferDataToSolver Start 0.033 
+TransferDataToSolver End 0.033 
+ShowFirstPlot Start 0.067 
+ShowFirstPlot End 0.067 
