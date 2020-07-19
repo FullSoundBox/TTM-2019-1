@@ -1,0 +1,10 @@
+Estos archivos complementan el reporte técnico del Trabajo Terminal TTM-2019/1-28,
+banco de pruebas para generador eólico vertical aplicado a zonas urbanas.
+
+Los autores del proyecto son Camarillo Loza Abraham, González Pastor Victor David,
+Osorio Segura Luis Fernando, alumnos de la carrera de Ingeniería en Mecatrónica, en
+la UPIITA-IPN.
+
+En estas carpetas se encuentran códigos para la implementación de la instrumentación
+con Raspberry Pi, diseño paramétrico en CAD y el diseño CAE de la estructura para el
+banco de pruebas, además de fotografías de utilidad y diagramas.
